@@ -76,13 +76,14 @@ I recently interned at **BSNL** where I worked on optimizing network systems and
 
 - 🥇 **1st Prize** — *Way2Predict* @ yoUR Fest, Usha Rama College of Engineering  
 - 🥉 **3rd Prize** — *Way2Predict* @ Polyveda2k23, Aditya Engineering College  
-- 🌿 **National Finalist** — *National Children’s Science Congress 2019*  
+- 🌿 **National Finalist** — *National Children’s Science Congress 2019*
+- 🌿 **State-Level Qualifier** - Selected for Stage 2 of **OpenAI Academy X NxtWave Buildathon**  
   *(Project: Impact of Herbal Feed Additives on Milk Yield in Cattle)*
 
 ---
 
 ## 📜 Certifications
-- ☁️ **AWS Certified: Cloud Practitioner** – *Jun 2025*  
+- ☁️ **AWS Certified: Cloud Practitioner** – *Sep 2025*  
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Jun 2025*  
 - 🌐 **Cisco Networking Essentials**  
 - 🔐 **Cisco Endpoint Security**  
