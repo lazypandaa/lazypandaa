@@ -82,7 +82,7 @@ I recently interned at **BSNL** where I worked on optimizing network systems and
 ---
 
 ## 📜 Certifications
-- ☁️ **AWS Certified: Cloud Practitioner ** – *Jun 2025*  
+- ☁️ **AWS Certified: Cloud Practitioner** – *Jun 2025*  
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Jun 2025*  
 - 🌐 **Cisco Networking Essentials**  
 - 🔐 **Cisco Endpoint Security**  
