@@ -75,10 +75,11 @@ I recently interned at **BSNL** where I worked on optimizing network systems and
 ## 🏆 Achievements
 
 - 🥇 **1st Prize** — *Way2Predict* @ yoUR Fest, Usha Rama College of Engineering  
-- 🥉 **3rd Prize** — *Way2Predict* @ Polyveda2k23, Aditya Engineering College  
-- 🌿 **National Finalist** — *National Children’s Science Congress 2019*
+- 🥉 **3rd Prize** — *Way2Predict* @ Polyveda2k23, Aditya Engineering College
 - 🌿 **State-Level Qualifier** - Selected for Stage 2 of **OpenAI Academy X NxtWave Buildathon**  
-  *(Project: Impact of Herbal Feed Additives on Milk Yield in Cattle)*
+- 🌿 **National Finalist** — *National Children’s Science Congress 2019*
+     *(Project: Impact of Herbal Feed Additives on Milk Yield in Cattle)*
+
 
 ---
 
